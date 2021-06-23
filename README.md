@@ -1,0 +1,1 @@
+This project is intended to learn how to use various tools and commands to familiarize oneself with the use of Web languages.
